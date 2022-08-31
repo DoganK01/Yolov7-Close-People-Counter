@@ -1,4 +1,4 @@
-# Yolov7-Close-People-Counter
+# Yolov7-Close-People-Counter (DEMO VERSİON)
 Counting Close People with Yolov7
 
  - # IMPORTANT NOTE:
