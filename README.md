@@ -30,7 +30,7 @@ So the combination of these 4 people is 6.
 # Upgrade pyyaml
 - `!pip install --upgrade pyyaml==5.3.1`
 
-Using Counter Example:
+# Using Counter Example:
 - `!python detect.py --weights /content/Yolov7-Close-People-Counter/weights/yolov7x.pt --source /content/Yolov7-Close-People-Counter/inference/images/bus.jpg --distance_rate 170 --no-trace`
 
 # Results
