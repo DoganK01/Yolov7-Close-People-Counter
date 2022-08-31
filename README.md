@@ -1,11 +1,6 @@
 # Yolov7-Close-People-Counter (DEMO VERSİON)
 Counting Close People with Yolov7
 
- - # IMPORTANT NOTE:
-Here the "CLOSENESS" count is performed, not the number of People.
-What I mean is. For example, if 4 people are side by side, the count is made with the combination of (4,2).
-So the combination of these 4 people is 6.
-
 
 - Censoring and counting all cigarettes on the screen and saving smoker's faces in the folder or any database
 - Useful for public non-smoking areas
@@ -25,7 +20,7 @@ So the combination of these 4 people is 6.
 
 # Weights get
 - `%%bash`
-- `wget -P /content/gdrive/MyDrive/yolov7/weights https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7x.pt`
+- `wget -P /content/Yolov7-Close-People-Counter/weights https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7x.pt`
 
 # Upgrade pyyaml
 - `!pip install --upgrade pyyaml==5.3.1`
