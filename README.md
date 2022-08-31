@@ -1,4 +1,6 @@
 # Yolov7-Close-People-Counter (DEMO VERSİON)
+# !!!!!!!!! CHECK OUT THE NEW VERSİON ON MY GİTHUB PAGE !!!!!!!!
+
 Counting Close People with Yolov7
 
 
