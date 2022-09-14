@@ -194,7 +194,7 @@ def detect(save_img=False):
                     if x<distance_rate:
                       close_people += 1
 
-                cv2.putText(im0,f"Close People: = {close_people - people_len}",(0, 300), cv2.FONT_HERSHEY_TRIPLEX,1, (0, 0, 0), 1)
+                cv2.putText(im0,f"Close People: = {(close_people - people_len)/2}",(0, 300), cv2.FONT_HERSHEY_TRIPLEX,1, (0, 0, 0), 1)
 
                       
 
